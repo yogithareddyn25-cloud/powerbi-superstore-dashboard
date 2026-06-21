@@ -17,4 +17,4 @@ An interactive Power BI dashboard developed to analyze sales, profit, customer s
 - Business Intelligence
 
 ## Author
-Yogitha
+Yogitha.
